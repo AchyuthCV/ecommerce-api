@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend API — Database Integration (Level 2)
+# 🛒 E-Commerce Backend API — Database Integration 
 
 This project is a RESTful E-Commerce Backend API developed as part of **Task 3: Database Integration (Intermediate Level)**.  
 It demonstrates database integration using MongoDB and Mongoose with full CRUD operations and relational data modeling.
